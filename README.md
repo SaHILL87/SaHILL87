@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sahil Gurnani</h1>
+<h1 align="center">🚀 Sahil Gurnani</h1>
 <h3 align="center">A Full stack dev and currently improving my Java abilities</h3>
 
-- 🔭 I’m currently working on **An airplane management system**
+<div align="center">
 
-- 🌱 I’m currently learning **OOPs, Spring boot**
+# 
+[![GitHub](https://img.shields.io/github/followers/SaHILL87?label=Follow&style=social)](https://github.com/SaHILL87)
+[![LinkedIn](https://img.shields.io/badge/-Sahil_Gurnani-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gurnani-b3a73b270/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/thesaahill/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaHILL87](https://github.com/SaHILL87)
+</div>
 
-- 📫 How to reach me **gurnanisahil87@gmail.com**
-
-- ⚡ Fun fact **🧇 I waffle too much**
+## 👨‍💻 About Me
+```javascript
+const sahil = {
+   currentFocus: "Airplane Management System",
+   learning: ["OOP", "Spring Boot"],
+   funFact: "I waffle too much 🧇",
+   email: "gurnanisahil87@gmail.com",
+   github: "https://github.com/SaHILL87"
+};
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
